@@ -1,4 +1,4 @@
-# Evaluation-Multimodal-LLMs-Survey
+# Benchmarks of MLLMs: Survey
 
 
 > **[A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/pdf/2405.110739v1)**[ [arXiv]](https://arxiv.org/pdf/2405.110739v1) 
@@ -12,7 +12,7 @@
 ## 📌 What is This Survey About?
 
 <p align="center">
-    <img src="BMLLM_statistic.png" width="100%" height="100%">
+    <img src="./BMLLM_statistic.png" width="100%" height="100%">
 </p>
 
 
