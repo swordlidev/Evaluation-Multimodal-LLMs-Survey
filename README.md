@@ -1,7 +1,7 @@
 # Benchmarks of MLLMs: Survey
 
 
-> **[A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/pdf/2405.110739v1)**[ [arXiv]](https://arxiv.org/pdf/2405.110739v1) 
+> **[A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)**[ [arXiv]](https://arxiv.org/abs/2408.08632) 
 
 > Jian Li<sup>1</sup>, Weiheng Lu<sup>2</sup>*
 
