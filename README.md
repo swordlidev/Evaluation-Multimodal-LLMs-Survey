@@ -21,8 +21,9 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Perception&Understanding
 **Comprehensive Evaluation**
-1. **"Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want"**. *Lin W, Wei X, An R, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2403.20271)] [[Github](https://github.com/AFeng-x/Draw-and-Understand)]
-1. **"CHEF: A COMPREHENSIVE EVALUATION FRAMEWORK FOR STANDARDIZED ASSESSMENT OF MULTIMODAL LARGE LANGUAGE MODELS"**. *Shi Z, Wang Z, Fan H, et al*. arXiv 2023. [[paper](https://arxiv.org/pdf/2311.02692)] [[Github](https://github.com/OpenGVLab/LAMM)]
+1. **"Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want"**. *Lin W, Wei X, An R, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2403.20271)] [[Github](https://github.com/AFeng-x/Draw-and-Understand)].
+2. **"CHEF: A COMPREHENSIVE EVALUATION FRAMEWORK FOR STANDARDIZED ASSESSMENT OF MULTIMODAL LARGE LANGUAGE MODELS"**. *Shi Z, Wang Z, Fan H, et al*. arXiv 2023. [[paper](https://arxiv.org/pdf/2311.02692)] [[Github](https://github.com/OpenGVLab/LAMM)].
+   
 **Fine-grained Perception**
 **Image Understanding**
 
