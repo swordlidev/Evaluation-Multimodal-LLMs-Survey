@@ -5,8 +5,7 @@
 
 > *<sup>1</sup>Tencent, <sup>2</sup>PKU, <sup>2</sup>NUS, <sup>2</sup>SEU, <sup>2</sup>NJU*
 
-**⚡We will actively maintain this repository and incorporate new research as it emerges. If you have any questions, please contact swordli@tencent.com. Welcome to collaborate on academic research and writing papers together.(欢迎学术合作)**. 
-
+**⚡We will actively maintain this repository and incorporate new research as it emerges. If you have any questions, please contact swordli@tencent.com. Welcome to collaborate on academic research and writing papers together.
 ## 📌 What is This Survey About?
 
 <p align="center">
