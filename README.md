@@ -47,3 +47,5 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 **Audio**
 **3D Points**
 **Omni-modal**
+1. **MCUB** **"Model Composition for Multimodal Large Language Models"**. *Chen C, Du Y, Fang Z, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.12750)] [[Github](https://github.com/THUNLP-MT/ModelCompose)].
+2. **AVQA** **"AVQA: A Dataset for Audio-Visual Question Answering on Videos"**. *Yang P, Wang X, Duan X, et al.*. MM 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291)] [[Github](https://mn.cs.tsinghua.edu.cn/avqa/)].
