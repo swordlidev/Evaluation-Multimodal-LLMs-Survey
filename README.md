@@ -36,11 +36,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 **Decision-making Agents**
 **Diverse Cultures&Languages**
 **Other Applications**
-
-### Key Capabilities
-**Conversation Abilities**
-**Hallucination**
-**Trustworthiness**
+**Long-context**
 1. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
 2. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
 3. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
@@ -49,6 +45,61 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 6. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
 7. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
 8. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+**Instruction Following**
+1. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+2. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+3. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+4. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+5. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+6. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+7. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+8. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+
+### Key Capabilities
+#### Conversation Abilities
+**Long-context**
+1. <mark>Mile-Bench</mark> **"MileBench: Benchmarking MLLMs in Long Context"**. *Song D, Chen S, Chen G H, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.18532)] [[Github](https://milebench.github.io/)].
+2. <mark>MMNeedle</mark> **"Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of Multimodal Large Language Models"**. *Wang H, Shi H, Tan S, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.11230)] [[Github](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)].
+3. <mark>MLVU</mark> **"MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding"**. *Zhou J, Shu Y, Zhao B, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2406.04264)] [[Github](https://github.com/JUNJIE99/MLVU)].
+**Instruction Following**
+1. <mark>CoIN</mark> **"CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model"**. *Chen C, Zhu J, Luo X, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2403.08350)] [[Github](https://github.com/zackschen/CoIN)].
+2. <mark>MIA-Bench</mark> **"MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs"**. *Qian Y, Ye H, Fauconnier J P, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2407.01509)] [[Github](https://github.com/apple/ml-mia-bench)].
+3. <mark>DEMON</mark> **"Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions"**. *Li J, Pan K, Ge Z, et al.*. ICLR 2023. [[Paper](https://arxiv.org/pdf/2308.04152)] [[Github](https://github.com/DCDmllm/Cheetah)].
+4. <mark>VisIT-Bench</mark> **"VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use"**. *Bitton Y, Bansal H, Hessel J, et al.*. NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2308.06595)] [[Github](https://visit-bench.github.io/)].
+
+#### Hallucination
+1. <mark>POPE</mark> **"Evaluating Object Hallucination in Large Vision-Language Models"**. *Li Y, Du Y, Zhou K, et al.*. EMNLP 2023. [[Paper](https://arxiv.org/pdf/2305.10355)] [[Github](https://github.com/RUCAIBox/POPE)].
+2. <mark>GAVIE</mark> **"Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning"**. *Liu F, Lin K, Li L, et al.*. ICLR 2023. [[Paper](https://www.researchgate.net/profile/Fuxiao-Liu-2/publication/375596083_Mitigating_Hallucination_in_Large_Multi-Modal_Models_via_Robust_Instruction_Tuning/links/655188b0b1398a779d7f4a04/Mitigating-Hallucination-in-Large-Multi-Modal-Models-via-Robust-Instruction-Tuning.pdf)] [[Github](https://fuxiaoliu.github.io/LRV/)].
+3. <mark>HaELM</mark> **"Evaluation and Analysis of Hallucination in Large Vision-Language Models"**. *Wang J, Zhou Y, Xu G, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2308.15126)] [[Github](https://github.com/junyangwang0410/HaELM)].
+4. <mark>M-HalDetect</mark> **"Detecting and Preventing Hallucinations in Large Vision Language Models"**. *Gunjal A, Yin J, Bas E.*. AAAI 2024. [[Paper](https://arxiv.org/pdf/2308.06394)] [[Github](https://github.com/hendryx-scale/mhal-detect)].
+5. <mark>Bingo</mark> **"Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges"**. *Cui C, Zhou Y, Yang X, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2311.03287)] [[Github](https://github.com/gzcch/Bingo)].
+6. <mark>HallusionBench</mark> **"HALLUSIONBENCH: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models"**. *Guan T, Liu F, Wu X, et al.*. CVPR 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Guan_HallusionBench_An_Advanced_Diagnostic_Suite_for_Entangled_Language_Hallucination_and_CVPR_2024_paper.pdf)] [[Github](https://github.com/tianyi-lab/HallusionBench)].
+7. <mark>VHTest</mark> **"Visual Hallucinations of Multi-modal Large Language Models"**. *Huang W, Liu H, Guo M, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.14683)] [[Github](https://github.com/wenhuang2000/VHTest)].
+8. <mark>CorrelationQA</mark> **"The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs"**. *Han T, Lian Q, Pan R, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.03757)] [[Github](https://github.com/MasaiahHan/CorrelationQA)].
+9. <mark>CHAIR</mark> **"Object Hallucination in Image Captioning"**. *Rohrbach A, Hendricks L A, Burns K, et al.*. EMNLP 2018. [[Paper](https://arxiv.org/pdf/1809.02156)] [[Github](https://github.com/LisaAnne/Hallucination)].
+10. <mark>MHaluBench</mark> **"Unified Hallucination Detection for Multimodal Large Language Models"**. *Chen X, Wang C, Xue Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.03190)] [[Github](https://github.com/zjunlp/EasyDetect)].
+11. <mark>VideoHallucer</mark> **"VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models"**. *Wang Y, Wang Y, Zhao D, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.16338)] [[Github](https://videohallucer.github.io/)].
+12. <mark>MMHAL-BENCH</mark> **"Aligning Large Multimodal Models with Factually Augmented RLHF"**. *Sun Z, Shen S, Cao S, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2309.14525)] [[Github](https://llava-rlhf.github.io/)].
+13. <mark>AMBER</mark> **"AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation"**. *Wang J, Wang Y, Xu G, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2311.07397)] [[Github](https://github.com/junyangwang0410/AMBER)].
+14. <mark>MMECeption</mark> **"GenCeption: Evaluate Multimodal LLMs with Unlabeled Unimodal Data"**. *Cao L, Buchner V, Senane Z, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.14973)] [[Github](https://github.com/llcresearch/GenCeption)].
+
+
+   
+#### Trustworthiness
+**Robustness**
+1. <mark>MAD-Bench</mark> **"How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts"**. *Qian Y, Zhang H, Yang Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.13220)] [[Github]()].
+2. <mark>MMR</mark> **"Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions"**. *Liu Y, Liang Z, Wang Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.10638)] [[Github](https://github.com/BAAI-DCAI/Multimodal-Robustness-Benchmark)].
+3. <mark>MM-SpuBench</mark> **"MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs"**. *Ye W, Zheng G, Ma Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.17126)] [[Github](https://huggingface.co/datasets/mmbench/MM-SpuBench)].
+4. <mark>MM-SAP</mark> **"MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception"**. *Wang Y, Liao Y, Liu H, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2401.07529)] [[Github](https://github.com/YHWmz/MM-SAP)].
+5. <mark>BenchLMM</mark> **"BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models"**. *Cai R, Song Z, Guan D, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2312.02896)] [[Github](https://github.com/AIFEG/BenchLMM)].
+6. <mark>VQAv2-IDK</mark> **"Visually Dehallucinative Instruction Generation: Know What You Don’t Know"**. *Cha S, Lee J, Lee Y, et al.*. ICASSP 2024. [[Paper](https://arxiv.org/pdf/2402.09717)] [[Github](https://github.com/ncsoft/idk)].
+**Safety**
+1. <mark>MMUBench</mark> **"Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models"**. *Li J, Wei Q, Zhang C, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2405.12523)] [[Github]()].
+2. <mark>JailBreakV-28K</mark> **"JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks"**. *Luo W, Ma S, Liu X, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.03027)] [[Github](https://eddyluo1232.github.io/JailBreakV28K/)].
+3. <mark>MultiTrust</mark> **"Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study"**. *Zhang Y, Huang Y, Sun Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.07057)] [[Github](https://multi-trust.github.io/)].
+4. <mark>MM-SafetyBench</mark> **"MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models"**. *Liu X, Zhu Y, Gu J, et al.*. ECCV 2024. [[Paper](https://arxiv.org/pdf/2311.17600)] [[Github](https://github.com/isXinLiu/MM-SafetyBench)].
+5. <mark>SHIELD</mark> **"SHIELD : An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models"**. *Shi Y, Gao Y, Lai Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.04178)] [[Github](https://github.com/laiyingxin2/SHIELD)].
+6. <mark>RTVLM</mark> **"Red teaming visual language models"**. *Li M, Li L, Yin Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2401.12915)] [[Github](https://huggingface.co/datasets/MMInstruction/RedTeamingVLM)].
 
 ### Other Modalities
 #### Videos
