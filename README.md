@@ -41,11 +41,56 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 **Conversation Abilities**
 **Hallucination**
 **Trustworthiness**
+1. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+2. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+3. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+4. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+5. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+6. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+7. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
+8. <mark></mark> **""**. **. . [[Paper]()] [[Github]()].
 
 ### Other Modalities
-**Videos**
-**Audio**
-**3D Points**
-**Omni-modal**
+#### Videos
+**Temporal Perception**
+1. <mark>MVBench</mark> **"MVBench: A Comprehensive Multi-modal Video Understanding Benchmark"**. *Li K, Wang Y, He Y, et al.*. CVPR 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf)] [[Github](https://github.com/OpenGVLab/Ask-Anything)].
+2. <mark>TimeIT</mark> **"Timechat: A time-sensitive multimodal large language model for long video understanding"**. *Ren S, Yao L, Li S, et al.*. CVPR 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)] [[Github](https://github.com/RenShuhuai-Andy/TimeChat)].
+3. <mark>ViLMA</mark> **"ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models"**. *Kesen I, Pedrotti A, Dogan M, et al.*. ICLR 2024. [[Paper](https://arxiv.org/pdf/2311.07022)] [[Github](https://cyberiada.github.io/ViLMA/)].
+4. <mark>VITATECS</mark> **"VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models"**. *Li S, Li L, Ren S, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2311.17404)] [[Github](https://github.com/lscpku/VITATECS)].
+5. <mark>TempCompass</mark> **"TempCompass: Do Video LLMs Really Understand Videos?"**. *Liu Y, Li S, Liu Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2403.00476)] [[Github](https://github.com/llyx97/TempCompass)].
+6. <mark>OSCaR</mark> **"OSCaR: Object State Captioning and State Change Representation"**. *Nguyen N, Bi J, Vosoughi A, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.17128)] [[Github](https://github.com/nguyennm1024/OSCaR)].
+7. <mark>ADLMCQ</mark> **"LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living"**. *Chakraborty R, Sinha A, Reilly D, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.09390)] [[Github](https://github.com/ADL-X/LLAVIDAL)].
+8. <mark>Perception Test</mark> **"Perception Test: A Diagnostic Benchmark for Multimodal Video Models"**. *Patraucean V, Smaira L, Gupta A, et al.*. NeurIPS2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8540fba4abdc7f9f7a7b1cc6cd60e409-Paper-Datasets_and_Benchmarks.pdf)] [[Github](https://github.com/google-deepmind/perception_test)].
+
+**Long Video Understanding**
+1. <mark>MovieChat-1k</mark> **"Moviechat: From dense token to sparse memory for long video understanding"**. **. . [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_MovieChat_From_Dense_Token_to_Sparse_Memory_for_Long_Video_CVPR_2024_paper.pdf)] [[Github](https://github.com/rese1f/MovieChat)].
+2. <mark>EgoSchema</mark> **"EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding"**. **. . [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)] [[Github](https://egoschema.github.io/)].
+3. <mark>Event-Bench</mark> **"Towards Event-oriented Long Video Understanding"**. **. . [[Paper](https://arxiv.org/pdf/2406.14129)] [[Github](https://github.com/RUCAIBox/Event-Bench)].
+4. <mark>MLVU</mark> **"MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding"**. **. . [[Paper](https://arxiv.org/abs/2406.04264)] [[Github](https://github.com/JUNJIE99/MLVU)].
+
+**Comprehensive Evaluation**
+1. <mark>Video-Bench</mark> **"Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models"**. *Ning M, Zhu B, Xie Y, et al.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2311.16103)] [[Github](https://github.com/PKU-YuanGroup/Video-Bench)].
+2. <mark>MMBench-Video</mark> **"MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding"**. *Fang X, Mao K, Duan H, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.14515)] [[Github](https://github.com/open-compass/VLMEvalKit)].
+3. <mark>Video-MME</mark> **"Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis"**. *Fu C, Dai Y, Luo Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2405.21075)] [[Github](https://video-mme.github.io/)].
+4. <mark>AutoEval-Video</mark> **"AutoEval-Video: An Automatic Benchmark for Assessing Large Vision Language Models in Open-Ended Video Question Answering"**. *Chen X, Lin Y, Zhang Y, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2311.14906)] [[Github](https://github.com/Xiuyuan-Chen/AutoEval-Video)].
+5. <mark>MMWorld</mark> **"MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos"**. *He X, Feng W, Zheng K, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.08407)] [[Github](https://mmworld-bench.github.io/)].
+6. <mark>WorldNet</mark> **"WorldGPT: Empowering LLM as Multimodal World Model"**. *Ge Z, Huang H, Zhou M, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.18202)] [[Github](https://github.com/DCDmllm/WorldGPT)].
+
+
+#### Audio
+1. <mark>Dynamic-SUPERB</mark> **"Dynamic-superb: Towards a dynamic, collaborative, and comprehensive instruction-tuning benchmark for speech"**. *Huang C, Lu K H, Wang S H, et al.*. ICASSP 2024. [[Paper](https://arxiv.org/pdf/2309.09510)] [[Github](https://github.com/dynamic-superb/dynamic-superb)].
+2. <mark>MuChoMusic</mark> **"MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models"**. *Weck B, Manco I, Benetos E, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2408.01337)] [[Github](https://mulab-mir.github.io/muchomusic/)].
+3. <mark>AIR-Bench</mark> **"AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension"**. *Yang Q, Xu J, Liu W, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.07729)] [[Github](https://github.com/OFA-Sys/AIR-Bench)].
+
+#### 3D Points
+1. <mark>ScanQA</mark> **"ScanQA: 3D Question Answering for Spatial Scene Understanding"**. *Azuma D, Miyanishi T, Kurita S, et al.*. CVPR 2022. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.pdf)] [[Github](https://github.com/ATR-DBI/ScanQA)].
+2. <mark>ScanReason</mark> **"ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities"**. *Zhu C, Wang T, Zhang W, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2407.01525)] [[Github](https://zcmax.github.io/projects/ScanReason/)].
+3. <mark>LAMM</mark> **"LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark"**. *Yin Z, Wang J, Cao J, et al.*. NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/548a41b9cac6f50dccf7e63e9e1b1b9b-Paper-Datasets_and_Benchmarks.pdf)] [[Github](https://openlamm.github.io/)].
+4. <mark>SpatialRGPT</mark> **"SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model"**. *Cheng A C, Yin H, Fu Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.01584)] [[Github](https://www.anjiecheng.me/SpatialRGPT)].
+5. <mark>M3DBench</mark> **"M3DBench: Let’s Instruct Large Models with Multi-modal 3D Prompts"**. *Li M, Chen X, Zhang C, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2312.10763)] [[Github](https://github.com/OpenM3D/M3DBench/)].
+   
+#### Omni-modal
 1. <mark>MCUB</mark> **"Model Composition for Multimodal Large Language Models"**. *Chen C, Du Y, Fang Z, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.12750)] [[Github](https://github.com/THUNLP-MT/ModelCompose)].
 2. <mark>AVQA</mark> **"AVQA: A Dataset for Audio-Visual Question Answering on Videos"**. *Yang P, Wang X, Duan X, et al.*. MM 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548291)] [[Github](https://mn.cs.tsinghua.edu.cn/avqa/)].
+3. <mark>MusicAVQA</mark> **"Learning to Answer Questions in Dynamic Audio-Visual Scenarios"**. *Li G, Wei Y, Tian Y, et al.*. CVPR 2022. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios_CVPR_2022_paper.pdf)] [[Github](https://gewu-lab.github.io/MUSIC-AVQA/)].
+4. <mark>MMT-Bench</mark> **"MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI"**. *Ying K, Meng F, Wang J, et al.*. arXiv 2024. [[paper](https://arxiv.org/pdf/2404.16006)] [[Github](https://github.com/OpenGVLab/MMT-Bench)].
