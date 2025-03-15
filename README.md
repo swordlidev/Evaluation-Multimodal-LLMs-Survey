@@ -18,6 +18,30 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ##  Summary of 200 MLLM Benchmarks
 
+### Table of Cntents
+- [Perception&Understanding](#perceptionunderstanding)
+  - [Comprehensive Evaluation](#comprehensive-evaluation)
+  - [Fine-grained Perception](#fine-grained-perception)
+  - [Image Understanding](#image-understanding)
+- [Cognition&Reasoning](#cognitionreasoning)
+  - [General Reasoning](#general-reasoning)
+  - [Knowledge-based Reasoning](#knowledge-based-reasoning)
+  - [Intelligence&Cognition](#intelligencecognition)
+- [Specific Domains](#specific-domains)
+  - [Text-rich VQA](#text-rich-vqa)
+  - [Decision-making Agents](#decision-making-agents)
+  - [Diverse Cultures&Languages](#diverse-cultureslanguages)
+  - [Other Applications](#other-applications)
+- [Key Capabilities](#key-capabilities)
+  - [Conversation Abilities](#conversation-abilities)
+  - [Hallucination](#hallucination)
+  - [Trustworthiness](#trustworthiness)
+- [Other Modalities](#other-modalities)
+  - [Videos](#videos)
+  - [Audio](#audio)
+  - [3D Points](#3d-points)
+  - [Omni-modal](#omni-modal)
+
 ### Perception&Understanding
 #### Comprehensive Evaluation
 1. <mark>MDVP-Bench</mark> **"Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want"**. *Lin W, Wei X, An R, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2403.20271)] [[Github](https://github.com/AFeng-x/Draw-and-Understand)].
