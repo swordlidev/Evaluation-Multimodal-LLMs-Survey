@@ -9,6 +9,11 @@
 ## 📌 What is This Survey About?
 
 <p align="center">
+    <img src="timeline.jpg" width="100%" height="100%">
+</p>
+
+
+<p align="center">
     <img src="BMLLM_statistic.png" width="100%" height="100%">
 </p>
 
