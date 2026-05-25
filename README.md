@@ -297,7 +297,8 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 4. <mark>MM-SAP</mark> **"MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception"**. *Wang Y, Liao Y, Liu H, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2401.07529)] [[Github](https://github.com/YHWmz/MM-SAP)].
 5. <mark>BenchLMM</mark> **"BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models"**. *Cai R, Song Z, Guan D, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2312.02896)] [[Github](https://github.com/AIFEG/BenchLMM)].
 6. <mark>VQAv2-IDK</mark> **"Visually Dehallucinative Instruction Generation: Know What You Don’t Know"**. *Cha S, Lee J, Lee Y, et al.*. ICASSP 2024. [[Paper](https://arxiv.org/pdf/2402.09717)] [[Github](https://github.com/ncsoft/idk)].
-7. 
+7. <mark>MVI-Bench</mark> **"MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs"**. *Chen H, Peng J, Min D, et al.*. ICML 2026. [[Paper](https://arxiv.org/abs/2511.14159)] [[Github](https://github.com/chenyil6/MVI-Bench)].
+
 **Safety**
 1. <mark>MMUBench</mark> **"Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models"**. *Li J, Wei Q, Zhang C, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2405.12523)] [[Github]()].
 2. <mark>JailBreakV-28K</mark> **"JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks"**. *Luo W, Ma S, Liu X, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.03027)] [[Github](https://eddyluo1232.github.io/JailBreakV28K/)].
