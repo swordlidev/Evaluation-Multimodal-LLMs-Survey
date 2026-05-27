@@ -51,8 +51,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Perception&Understanding
 
-#### updated
-
+#### Updated(2026.05.27)
 1. <mark>MMDocBench</mark> **"MMDocBench: Benchmarking for Fine-grained Document Understanding"**. 2024.10. [[Paper](https://arxiv.org/abs/2410.21311)]
 2. <mark>MMLongBench-Doc</mark> **"MMLongBench-Doc: Benchmarking Long-context Document"**. NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ae0e43289bffea0c1fa34633fc608e92-Abstract-Datasets_and_Benchmarks_Track.html)]
 3. <mark>CC-OCR</mark> **"CC-OCR: Challenging OCR Benchmark for Literacy"**. ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_CC-OCR_A_Comprehensive_and_Challenging_OCR_Benchmark_for_Evaluating_Large_ICCV_2025_paper.html)]
@@ -135,20 +134,18 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Cognition&Reasoning
 
-#### updated
-
+#### Updated(2026.05.27)
 1. <mark>MEGA-Bench</mark> **"MEGA-Bench: Scaling Multimodal Evaluation to 500+ Tasks"**. ICLR 2025. [[Paper](https://iclr.cc/Conferences/2025/Schedule?showEvent=100234)]
 2. <mark>DatBench</mark> **"DatBench: Discriminative, Faithful, and Efficient VLM Evaluations"**. 2026.01. [[Paper](https://arxiv.org/abs/2601.02316)]
 3. <mark>MLLM-as-a-Judge</mark> **"MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge"**. ICML 2024. [[Paper](https://openreview.net/forum?id=dbFEFHAD79)]
-4. <mark>MME (Updated)</mark> **"MME: A Comprehensive Evaluation Benchmark for MLLMs"**. NeurIPS 2025. [[Paper](https://arxiv.org/abs/2411.15296)]
-5. <mark>VisuLogic</mark> **"VisuLogic: Evaluating Visual Reasoning in MLLMs"**. 2025.04. [[Paper](https://arxiv.org/abs/2504.15279)]
-6. <mark>SciVQA 2025</mark> **"SciVQA 2025: Overview of Scientific Visual QA"**. 2025. [[Paper](https://aclanthology.org/2025.sdp-1.18/)]
-7. <mark>AutoPaperBench</mark> **"AutoPaperBench: An MLLM-based Framework for Paper Understanding"**. 2025. [[Paper](https://www.mdpi.com/2079-9292/14/6/1175)]
-8. <mark>ObjVariantEnsemble</mark> **"ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation"**. AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32190)]
-9. <mark>PointLLM-v2</mark> **"PointLLM-v2: Empowering LLMs to Understand Point Clouds"**. 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11086426/)]
-10. <mark>VLM-3D</mark> **"VLM-3D: End-to-End Vision-Language Models for 3D Perception"**. 2025.08. [[Paper](https://arxiv.org/abs/2508.09061)]
-11. <mark>MAPLM</mark> **"MAPLM: A Benchmark for Map and Traffic Scene Understanding"**. CVPR 2024. [[Paper](http://openaccess.thecvf.com/content/CVPR2024/html/Cao_MAPLM_A_Real-World_Large_Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.html)]
-12. <mark>Ego3D-Bench</mark> **"Ego3D-Bench: Spatial Reasoning in Ego-centric Scenes"**. 2025.09. [[Paper](https://arxiv.org/abs/2509.06266)]
+4. <mark>VisuLogic</mark> **"VisuLogic: Evaluating Visual Reasoning in MLLMs"**. 2025.04. [[Paper](https://arxiv.org/abs/2504.15279)]
+5. <mark>SciVQA 2025</mark> **"SciVQA 2025: Overview of Scientific Visual QA"**. 2025. [[Paper](https://aclanthology.org/2025.sdp-1.18/)]
+6. <mark>AutoPaperBench</mark> **"AutoPaperBench: An MLLM-based Framework for Paper Understanding"**. 2025. [[Paper](https://www.mdpi.com/2079-9292/14/6/1175)]
+7. <mark>ObjVariantEnsemble</mark> **"ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation"**. AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32190)]
+8. <mark>PointLLM-v2</mark> **"PointLLM-v2: Empowering LLMs to Understand Point Clouds"**. 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11086426/)]
+9. <mark>VLM-3D</mark> **"VLM-3D: End-to-End Vision-Language Models for 3D Perception"**. 2025.08. [[Paper](https://arxiv.org/abs/2508.09061)]
+10. <mark>MAPLM</mark> **"MAPLM: A Benchmark for Map and Traffic Scene Understanding"**. CVPR 2024. [[Paper](http://openaccess.thecvf.com/content/CVPR2024/html/Cao_MAPLM_A_Real-World_Large_Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.html)]
+11. <mark>Ego3D-Bench</mark> **"Ego3D-Bench: Spatial Reasoning in Ego-centric Scenes"**. 2025.09. [[Paper](https://arxiv.org/abs/2509.06266)]
 
 #### General Reasoning
 **Visual Relation**
@@ -219,8 +216,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Specific Domains
 
-#### updated
-
+#### Updated(2026.05.27)
 1. <mark>TurkingBench</mark> **"TurkingBench: A Challenge Benchmark for Web Agents"**. NAACL 2025. [[Paper](https://aclanthology.org/2025.naacl-long.188/)]
 2. <mark>WebCanvas</mark> **"WebCanvas: Benchmarking Web Agents in Online Environments"**. 2024.06. [[Paper](https://arxiv.org/abs/2406.12373)]
 3. <mark>VisualWebArena</mark> **"VisualWebArena: Evaluating Multimodal Agents on Realistic Web Tasks"**. ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.50/)]
@@ -320,7 +316,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Key Capabilities
 
-#### update
+#### Updated(2026.05.27)
 1. <mark>VLBiasBench</mark> **"VLBiasBench: A Comprehensive Benchmark for Evaluating Bias"**. TPAMI 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11481174/)]
 2. <mark>AVHBench</mark> **"AVHBench: A Cross-Modal Hallucination Benchmark"**. ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3cc685788a311fa35d8d41df93e288ca-Abstract-Conference.html)]
 3. <mark>HaloQuest</mark> **"HaloQuest: A Visual Hallucination Dataset"**. ECCV 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72980-5_17)]
@@ -378,8 +374,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Other Modalities
 
-#### update
-
+#### Updated(2026.05.27)
 1. <mark>LVBench</mark> **"LVBench: An Extreme Long Video Understanding Benchmark"**. ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_LVBench_An_Extreme_Long_Video_Understanding_Benchmark_ICCV_2025_paper.html)]
 2. <mark>LongVideoBench</mark> **"LongVideoBench: A Benchmark for Long-context Interleaved Video-Language"**. NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/329ad516cf7a6ac306f29882e9c77558-Abstract-Datasets_and_Benchmarks_Track.html)]
 3. <mark>VBench-2.0</mark> **"VBench-2.0: Advancing Video Generation Benchmark Suite"**. 2025.03. [[Paper](https://arxiv.org/abs/2503.21755)]
