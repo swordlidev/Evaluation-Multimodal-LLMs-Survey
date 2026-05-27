@@ -22,6 +22,9 @@
 
 Multimodal Large Language Models (MLLMs) are gaining increasing popularity in both academia and industry due to their remarkable performance in various applications such as visual question answering, visual perception, understanding, and reasoning. Over the past few years, significant efforts have been made to examine MLLMs from multiple perspectives. This paper presents a comprehensive review of 200+ benchmarks and evaluations for MLLMs, focusing on (1)perception and understanding, (2)cognition and reasoning, (3)specific domains, (4)key capabilities, and (5)other modalities. Finally, we discuss the limitations of the current evaluation methods for MLLMs and explore promising future directions. Our key argument is that evaluation should be regarded as a crucial discipline to better support the development of MLLMs.
 
+> **📢 Update (May 2026):** This survey has been expanded from 200+ to **258 benchmarks**, incorporating 61 newly published works from 2024 H2–2026 across major venues including NeurIPS, CVPR, ICLR, ICCV, ACL, EMNLP, AAAI, and more. New entries are marked with 🆕.
+
+
 
 ##  Summary of 200 MLLM Benchmarks
 
@@ -51,7 +54,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Perception&Understanding
 
-#### Updated(2026.05.27)
+#### 🆕Updated(2026.05.27)
 1. <mark>MMDocBench</mark> **"MMDocBench: Benchmarking for Fine-grained Document Understanding"**. 2024.10. [[Paper](https://arxiv.org/abs/2410.21311)]
 2. <mark>MMLongBench-Doc</mark> **"MMLongBench-Doc: Benchmarking Long-context Document"**. NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ae0e43289bffea0c1fa34633fc608e92-Abstract-Datasets_and_Benchmarks_Track.html)]
 3. <mark>CC-OCR</mark> **"CC-OCR: Challenging OCR Benchmark for Literacy"**. ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_CC-OCR_A_Comprehensive_and_Challenging_OCR_Benchmark_for_Evaluating_Large_ICCV_2025_paper.html)]
@@ -134,7 +137,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Cognition&Reasoning
 
-#### Updated(2026.05.27)
+#### 🆕Updated(2026.05.27)
 1. <mark>MEGA-Bench</mark> **"MEGA-Bench: Scaling Multimodal Evaluation to 500+ Tasks"**. ICLR 2025. [[Paper](https://iclr.cc/Conferences/2025/Schedule?showEvent=100234)]
 2. <mark>DatBench</mark> **"DatBench: Discriminative, Faithful, and Efficient VLM Evaluations"**. 2026.01. [[Paper](https://arxiv.org/abs/2601.02316)]
 3. <mark>MLLM-as-a-Judge</mark> **"MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge"**. ICML 2024. [[Paper](https://openreview.net/forum?id=dbFEFHAD79)]
@@ -216,7 +219,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Specific Domains
 
-#### Updated(2026.05.27)
+#### 🆕Updated(2026.05.27)
 1. <mark>TurkingBench</mark> **"TurkingBench: A Challenge Benchmark for Web Agents"**. NAACL 2025. [[Paper](https://aclanthology.org/2025.naacl-long.188/)]
 2. <mark>WebCanvas</mark> **"WebCanvas: Benchmarking Web Agents in Online Environments"**. 2024.06. [[Paper](https://arxiv.org/abs/2406.12373)]
 3. <mark>VisualWebArena</mark> **"VisualWebArena: Evaluating Multimodal Agents on Realistic Web Tasks"**. ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.50/)]
@@ -316,7 +319,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Key Capabilities
 
-#### Updated(2026.05.27)
+#### 🆕Updated(2026.05.27)
 1. <mark>VLBiasBench</mark> **"VLBiasBench: A Comprehensive Benchmark for Evaluating Bias"**. TPAMI 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11481174/)]
 2. <mark>AVHBench</mark> **"AVHBench: A Cross-Modal Hallucination Benchmark"**. ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3cc685788a311fa35d8d41df93e288ca-Abstract-Conference.html)]
 3. <mark>HaloQuest</mark> **"HaloQuest: A Visual Hallucination Dataset"**. ECCV 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72980-5_17)]
@@ -374,7 +377,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 ### Other Modalities
 
-#### Updated(2026.05.27)
+#### 🆕Updated(2026.05.27)
 1. <mark>LVBench</mark> **"LVBench: An Extreme Long Video Understanding Benchmark"**. ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_LVBench_An_Extreme_Long_Video_Understanding_Benchmark_ICCV_2025_paper.html)]
 2. <mark>LongVideoBench</mark> **"LongVideoBench: A Benchmark for Long-context Interleaved Video-Language"**. NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/329ad516cf7a6ac306f29882e9c77558-Abstract-Datasets_and_Benchmarks_Track.html)]
 3. <mark>VBench-2.0</mark> **"VBench-2.0: Advancing Video Generation Benchmark Suite"**. 2025.03. [[Paper](https://arxiv.org/abs/2503.21755)]
