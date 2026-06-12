@@ -415,6 +415,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 4. <mark>AutoEval-Video</mark> **"AutoEval-Video: An Automatic Benchmark for Assessing Large Vision Language Models in Open-Ended Video Question Answering"**. *Chen X, Lin Y, Zhang Y, et al.*. arXiv 2023. [[Paper](https://arxiv.org/pdf/2311.14906)] [[Github](https://github.com/Xiuyuan-Chen/AutoEval-Video)].
 5. <mark>MMWorld</mark> **"MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos"**. *He X, Feng W, Zheng K, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.08407)] [[Github](https://mmworld-bench.github.io/)].
 6. <mark>WorldNet</mark> **"WorldGPT: Empowering LLM as Multimodal World Model"**. *Ge Z, Huang H, Zhou M, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.18202)] [[Github](https://github.com/DCDmllm/WorldGPT)].
+7. <mark>GameplayQA</mark> **"GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents"**. *Wang Y, Xu R, Zheng K, et al.*. ACL 2026. [[Paper](https://arxiv.org/abs/2603.24329)] [[Github](https://github.com/HATS-ICT/GameplayQA)] [[Project Page](https://hats-ict.github.io/gameplayqa/)] [[Dataset](https://huggingface.co/datasets/wangyz1999/GameplayQA)].
 
 
 #### Audio
