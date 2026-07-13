@@ -255,6 +255,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 3. <mark>InfographicVQA</mark> **"Minesh Mathew and Viraj Bagal and Rubèn Pérez Tito and Dimosthenis Karatzas and Ernest Valveny and C. V Jawahar"**. *Minesh Mathew, Viraj Bagal, Rubèn Pérez Tito, et al.*. arXiv 2021. [[Paper](https://arxiv.org/abs/2104.12756)] [[Github](https://www.docvqa.org/)].
 4. <mark>DUDE</mark> **"Document Understanding Dataset and Evaluation (DUDE)"**. *Jordy Van Landeghem, Rubén Tito, Łukasz Borchmann, et al.*. ICCV 2023. [[Paper](https://arxiv.org/abs/2305.08455)] [[Github](huggingface.co/datasets/jordyvl/DUDE_loader)].
 5. <mark>MM-NIAH</mark> **"Needle In A Multimodal Haystack"**. *Weiyun Wang, Shuibo Zhang, Yiming Ren, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2406.07230)] [[Github](https://github.com/OpenGVLab/MM-NIAH)].
+6. <mark>MMESGBench</mark> **"MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks"**. *Lei Zhang, Xin Zhou, Chaoyue He, et al.*. ACM MM 2025. [[Paper](https://arxiv.org/abs/2507.18932)] [[Github](https://github.com/Zhanglei1103/MMESGBench)].
 
 **Chart-oriented Question Answering**
 1. <mark>ChartQA</mark> **"ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning"**. *Ahmed Masry, Do Xuan Long, Jia Qing Tan, et al.*. ACL 2022. [[Paper](https://arxiv.org/abs/2203.10244)] [[Github]()].
