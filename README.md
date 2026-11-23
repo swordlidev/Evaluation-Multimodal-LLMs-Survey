@@ -197,6 +197,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 2. <mark>MARVEL</mark> **"MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning"**. *Jiang Y, Zhang J, Sun K, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2404.13591)] [[Github](https://github.com/1171-jpg/MARVEL_AVR)].
 3. <mark>VCog-Bench</mark> **"What is the Visual Cognition Gap between Humans and Multimodal LLMs?"**. *Cao X, Lai B, Ye W, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2406.10424)] [[Github](https://github.com/IrohXu/VCog-Bench)].
 4. <mark>M3GIA</mark> **"M3GIA: A Cognition Inspired Multilingual and Multimodal General Intelligence Ability Benchmark"**. *Song W, Li Y, Xu J, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2406.05343)] [[Github]()].
+5. <mark>Cross-Task ToM</mark> **"Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind"**. *Zhang K, Sun Y, Yi C, et al.*. EMNLP 2026 Findings. [[Paper](https://arxiv.org/abs/2608.00261)] [[Github]()].
 
 
 **Mathematical Question Answering**
